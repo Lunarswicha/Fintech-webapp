@@ -1,0 +1,3 @@
+cd /Users/lunarswicha/Desktop/FINTECH\ APP/frontend
+cd /Users/lunarswicha/Desktop/FINTECH\ APP/backend 
+uvicorn main:app --reload
