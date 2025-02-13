@@ -10,3 +10,4 @@ pandas-ta
 ta
 yfinance
 requests
+prophet
